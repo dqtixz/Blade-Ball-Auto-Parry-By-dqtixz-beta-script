@@ -1,0 +1,2024 @@
+print("MoonSecV3")
+print("No, No")
+print("by dqtixz Script")
+print("https://scriptblox.com/u/dqtixz")
+print("Thanks")
+
+--[[local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then = false
+local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(2058 -(1069 + 118)))) then return ((v35==((2415 -1350) -(68 + 997))) and (v37 * ((1271 -(226 + 1044))/(0 -
+0)))) or (v37 * NaN) ;end return v8(v37,v36-(1140 -(32 + 85)) ) * 
+(v34 + (v35/((2 + 0)^(12 + 40)))) ;end if (v31==(957 -(892 + 65))) then v32=v24();v33=v24();v31=2 -1 ;end if 
+(v31==(1 -(0 -0))) then v34=1 -0 ;v35=(v21(v33,351 -(16 + 71 + 263) ,20) * ((182 -(67 + 113))^(24 + 6 + 2))) + v32 ;v31=4 -2 ;end end end v26=nil;function v26(v38)local 
+v39=0;local v40;local v41;while true do if (v39==((1 + 2) -1)) then v
+41={};for v80=1 + 0 , #v40 do v41[v80]=v2(v1(v3(v40,v80,v80)));end v39=(651 + 143) -(368 + 423) ;end if 
+(((1211 -(201 + 571)) -(145 + 293))==v39) then v40=v3(v16,v19,(v19 + v38) -(431 -(44 + 386)) );v19=v19 + v38 ;v39=2;end if (((1138 -(116 + 1022)) -0)==v39) then v40=nil;if  
+not v38 then v38=v24();if (v38==(18 -(10 + 8))) then return "";end end v39=3 -2 ;
+end if (v39==(445 -(416 + 26))) then return v6(v41);end end end v27=v24;v18=4;end if (v18=
+=2) then function v23()local v42=0 -0 ;local v43;local v44;while true do if (v42==1) then return (v44 * (151 + 105)) + v43 ;end if (v42==(0 -0)) then v43,v44=v1(v16,v19,v19 +
+(7 -5) );v19=v19 + ((47 + 814) -(814 + 45)) ;v42=(1 + 1) -1 ;end end end v24=nil;function v24()local v45=885 -(261 + 624) ;local v46;local v47;local v48;local v49;while true do 
+if (v45==(1 -0)) then return (v49 * ((16780043 -(760 + 987)) -(1020 + 60))) + (v
+48 * (66959 -(630 + 793))) + (v47 * (867 -611)) 
++ v46 ;end if (v45==(0 -(1913 -(1789 + 124)))) then v4
+6,v47,v48,v49=v1(v16,v19,v19 + 2 + 1 );v19=v19 + (13 -9) ;v45=1;end end end v2
+5=nil;v18=3;end if (4==v18) then v28=nil;function v28(...)return {...},v12("#",...);end v29=nil;function v29()lo
+cal v50=0;local v51;local v52;local v53;local v54;local v55;local v56;lo
+cal v57;wh
+ile true do if (v50==(1 -0)) then v53=nil;v54=nil;v50=2;end if (v50~=(0 + 0)) then else local v74=0 + 0 ;l
+ocal v75;while true do if (0==v74) then v75=0;while true do if (v75==(1 + 0)) 
+then v50=1 + 0 ;break;end if (v75==(529 -(406 + 123))) then v51=1769 -(1749 + 20) ;v52=nil;v75=1;end end bre
+ak;end end end if (v50==(1 + 2)) then v57=nil;while true do local v82=1322 -(1249 +
+73) ;while true do if (v82==0) then local v102=0 + 0 ;local v103;while true do 
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then true ]]
+
+local workspace = game:GetService("Workspace")
+local players = game:GetService("Players")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local localPlayer = players.LocalPlayer
+local BASE_THRESHOLD = 0.2
+local VELOCITY_SCALING_FACTOR_FAST = 0.050
+local VELOCITY_SCALING_FACTOR_SLOW = 0.1
+local IMMEDIATE_PARRY_DISTANCE = 15
+local IMMEDIATE_HIGH_VELOCITY_THRESHOLD = 85
+local UserInputService = game:GetService("UserInputService")
+local responses = {"lol what", "??", "wdym", "bru what", "mad cuz bad", "skill issue", "cry"}
+local gameEndResponses = {"ggs", "gg :3", "good game", "ggs yall", "wp", "ggs man"}
+local keywords = {"auto parry", "auto", "cheating", "hacking"}
+local heartbeatConnection
+local focusedBall, displayBall = nil, nil
+local character = localPlayer.Character or localPlayer.CharacterAdded:Wait()
+local ballsFolder = workspace:WaitForChild("Balls")
+local parryButtonPress = replicatedStorage.Remotes.ParryButtonPress
+local abilityButtonPress = replicatedStorage.Remotes.AbilityButtonPress
+local sliderValue = 20
+local distanceVisualizer = nil
+local isRunning = false
+local notifyparried = false
+local PlayerGui = localPlayer:WaitForChild("PlayerGui")
+local Hotbar = PlayerGui:WaitForChild("Hotbar")
+local UseRage = false
+
+local uigrad1 = Hotbar.Block.border1.UIGradient
+local uigrad2 = Hotbar.Ability.border2.UIGradient
+
+
+local function isPlayerOnMobile()
+    return UserInputService.TouchEnabled and not (UserInputService.KeyboardEnabled or UserInputService.GamepadEnabled)
+end
+
+local RayfieldURL = isPlayerOnMobile() and 
+                    'https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3AArrayfield%20Library' or 
+                    'https://sirius.menu/rayfield'
+
+local Rayfield = loadstring(game:HttpGet(RayfieldURL))()
+
+
+local Window = Rayfield:CreateWindow({
+   Name = "Blade Ball",
+   LoadingTitle = "Blade Ball",
+   LoadingSubtitle = "by dqtixz",
+   ConfigurationSaving = {
+      Enabled = false,
+      FolderName = "dqtixz scripts",
+      FileName = "dqtixz Scripts"
+   },
+   Discord = {
+      Enabled = true,
+      Invite = "hNX8VxcjMF",
+      RememberJoins = true
+   },
+   KeySystem = false,
+   KeySettings = {
+      Title = "Inferno Scripts",
+      Subtitle = "Key System",
+      Note = "Join the discord (discord.gg/hNX8VxcjMF)",
+      FileName = "InfernoKey",
+      SaveKey = true,
+      GrabKeyFromSite = false,
+      Key = "Hello"
+   }
+})
+
+local AutoParry = Window:CreateTab("Auto Parry", 13014537525)
+
+if character then
+    print("Character found.")
+else
+    print("Character not found.")
+    return
+end
+
+local function notify(title, content, duration)
+    Rayfield:Notify({
+        Title = title,
+        Content = content,
+        Duration = duration or 0.7,
+        Image = 10010348543
+    })
+end
+
+local function chooseNewFocusedBall()
+    local balls = ballsFolder:GetChildren()
+    for _, ball in ipairs(balls) do
+        if ball:GetAttribute("realBall") ~= nil and ball:GetAttribute("realBall") == true then
+            focusedBall = ball
+            print(focusedBall.Name)
+            break
+        elseif ball:GetAttribute("target") ~= nil then
+            focusedBall = ball
+            print(focusedBall.Name)
+            break
+        end
+    end
+    
+    if focusedBall == nil then
+        print("Debug: Could not find a ball that's the realBall or has a target.")
+        wait(1)
+        chooseNewFocusedBall()
+    end
+    return focusedBall
+end
+
+local function getDynamicThreshold(ballVelocityMagnitude)
+    if ballVelocityMagnitude > 60 then
+        return math.max(0.20, BASE_THRESHOLD - (ballVelocityMagnitude * VELOCITY_SCALING_FACTOR_FAST))
+    else
+        return math.min(0.01, BASE_THRESHOLD + (ballVelocityMagnitude * VELOCITY_SCALING_FACTOR_SLOW))
+    end
+end
+
+local function timeUntilImpact(ballVelocity, distanceToPlayer, playerVelocity)
+    if not character then return end
+    local directionToPlayer = (character.HumanoidRootPart.Position - focusedBall.Position).Unit
+    local velocityTowardsPlayer = ballVelocity:Dot(directionToPlayer) - playerVelocity:Dot(directionToPlayer)
+    
+    if velocityTowardsPlayer <= 0 then
+        return math.huge
+    end
+    
+    return (distanceToPlayer - sliderValue) / velocityTowardsPlayer
+end
+
+local function updateDistanceVisualizer()
+    local charPos = character and character.PrimaryPart and character.PrimaryPart.Position
+    if charPos and focusedBall then
+        if distanceVisualizer then
+            distanceVisualizer:Destroy()
+        end
+
+        local timeToImpactValue = timeUntilImpact(focusedBall.Velocity, (focusedBall.Position - charPos).Magnitude, character.PrimaryPart.Velocity)
+        local ballFuturePosition = focusedBall.Position + focusedBall.Velocity * timeToImpactValue
+
+        distanceVisualizer = Instance.new("Part")
+        distanceVisualizer.Size = Vector3.new(1, 1, 1)
+        distanceVisualizer.Anchored = true
+        distanceVisualizer.CanCollide = false
+        distanceVisualizer.Position = ballFuturePosition
+        distanceVisualizer.Parent = workspace    
+    end
+end
+
+local function checkIfTarget()
+    for _, v in pairs(ballsFolder:GetChildren()) do
+        if v:IsA("Part") and v.BrickColor == BrickColor.new("Really red") then 
+            print("Ball is targetting player.")
+            return true 
+        end 
+    end 
+    return false
+end
+
+local function isCooldownInEffect(uigradient)
+    return uigradient.Offset.Y < 0.5
+end
+
+
+local function checkBallDistance()
+    if not character or not checkIfTarget() then return end
+
+    local charPos = character.PrimaryPart.Position
+    local charVel = character.PrimaryPart.Velocity
+
+    if focusedBall and not focusedBall.Parent then
+        print("Focused ball lost parent. Choosing a new focused ball.")
+        chooseNewFocusedBall()
+    end
+    if not focusedBall then 
+        print("No focused ball.")
+        chooseNewFocusedBall()
+    end
+
+    local ball = focusedBall
+    local distanceToPlayer = (ball.Position - charPos).Magnitude
+    local ballVelocityTowardsPlayer = ball.Velocity:Dot((charPos - ball.Position).Unit)
+    
+    if distanceToPlayer < 15 then
+        parryButtonPress:Fire()
+        task.wait()
+    end
+
+    if timeUntilImpact(ball.Velocity, distanceToPlayer, charVel) < getDynamicThreshold(ballVelocityTowardsPlayer) then
+        if (character.Abilities["Raging Deflection"].Enabled or character.Abilities["Rapture"].Enabled) and UseRage == true then
+            if not isCooldownInEffect(uigrad2) then
+                abilityButtonPress:Fire()
+            end
+
+            if isCooldownInEffect(uigrad2) and not isCooldownInEffect(uigrad1) then
+                parryButtonPress:Fire()
+                if notifyparried == true then
+                    notify("Auto Parry", "Manually Parried Ball (Ability on CD)", 0.3)
+                end
+            end
+
+        elseif not isCooldownInEffect(uigrad1) then
+            print(isCooldownInEffect(uigrad1))
+            parryButtonPress:Fire()
+            if notifyparried == true then
+                notify("Auto Parry", "Automatically Parried Ball", 0.3)
+            end
+            task.wait(0.3)
+        end
+    end
+end
+
+
+local function autoParryCoroutine()
+    while isRunning do
+        checkBallDistance()
+        updateDistanceVisualizer()
+        task.wait()
+    end
+end
+
+
+
+localPlayer.CharacterAdded:Connect(function(newCharacter)
+    character = newCharacter
+    chooseNewFocusedBall()
+    updateDistanceVisualizer()
+end)
+
+localPlayer.CharacterRemoving:Connect(function()
+    if distanceVisualizer then
+        distanceVisualizer:Destroy()
+        distanceVisualizer = nil
+    end
+end)
+
+
+
+local function startAutoParry()
+    print("Script successfully ran.")
+    
+    chooseNewFocusedBall()
+    
+    isRunning = true
+    local co = coroutine.create(autoParryCoroutine)
+    coroutine.resume(co)
+end
+
+local function stopAutoParry()
+    isRunning = false
+end
+
+
+local AutoParrySection = AutoParry:CreateSection("Auto Parry")
+
+local AutoParryToggle = AutoParry:CreateToggle({
+    Name = "Auto Parry",
+    CurrentValue = false,
+    Flag = "AutoParryFlag",
+    Callback = function(Value)
+        if Value then
+            startAutoParry()
+            notify("Auto Parry", "Auto Parry has been started", 1)
+        else
+            stopAutoParry()
+            notify("Auto Parry", "Auto Parry has been disabled", 1)
+        end
+    end,
+})
+
+
+local AutoRagingDeflect = AutoParry:CreateToggle({
+    Name = "Auto Rage Parry/Rapture Parry (MUST EQUIP PROPER ABILITY)",
+    CurrentValue = false,
+    Flag = "AutoRagingDeflectFlag",
+    Callback = function(Value)
+        if Value then
+            startAutoParry()
+            UseRage = Value
+            notify("Auto Parry", "Auto Parry with Ability has been started", 1)
+        else
+            stopAutoParry()
+            UseRage = Value
+            notify("Auto Parry", "Auto Parry with Ability has been disabled", 1)
+        end
+    end,
+})
+
+
+
+local CloseFighting = AutoParry:CreateSection("Close Fighting")
+ local SpamParry = AutoParry:CreateKeybind({
+    Name = "Spam Parry (Hold)",
+    CurrentKeybind = "C",
+    HoldToInteract = true,
+    Flag = "ToggleParrySpam", 
+    Callback = function(Keybind)
+        parryButtonPress:Fire()
+    end,
+ })
+ 
+
+local Configuration = AutoParry:CreateSection("Configuration")
+
+local DistanceSlider = AutoParry:CreateSlider({
+    Name = "Distance Configuration",
+    Range = {0, 100},
+    Increment = 1,
+    Suffix = "Distance",
+    CurrentValue = 20,
+    Flag = "DistanceSlider",
+    Callback = function(Value)
+        sliderValue = Value
+    end,
+ })
+
+local ToggleParryOn = AutoParry:CreateKeybind({
+   Name = "Toggle Parry On (Bind)",
+   CurrentKeybind = "One",
+   HoldToInteract = false,
+   Flag = "ToggleParryOn", 
+   Callback = function(Keybind)
+AutoParryToggle:Set(true)
+
+   end
+})
+
+
+
+local ToggleParryOff = AutoParry:CreateKeybind({
+   Name = "Toggle Parry Off (Bind)",
+   CurrentKeybind = "Two",
+   HoldToInteract = false,
+   Flag = "ToggleParryOff",
+   Callback = function(Keybind)
+   AutoParryToggle:Set(false)
+   end,
+})
+
+local ToggleParryOffPlus = AutoParry:CreateKeybind({
+    Name = "+ 10 range",
+    CurrentKeybind = "X",
+    HoldToInteract = false,
+    Flag = "ToggleParryOffPlus",
+    Callback = function()
+         if sliderValue < 200 then
+             sliderValue = sliderValue + 10
+             DistanceSlider:Set(sliderValue)
+             notify("Range Increased", "New Range: " .. sliderValue)
+         end
+    end,
+ })
+ 
+ local ToggleParryOffMinus = AutoParry:CreateKeybind({
+    Name = "- 10 range",
+    CurrentKeybind = "Z",
+    HoldToInteract = false,
+    Flag = "ToggleParryOffMinus",
+    Callback = function()
+         if sliderValue > 0 then
+             sliderValue = sliderValue - 10
+             DistanceSlider:Set(sliderValue)
+             notify("Range Decreased", "New Range: " .. sliderValue)
+         end
+    end,
+ })
+
+local AutoGGToggle = AutoParry:CreateToggle({
+    Name = "Auto GG",
+    CurrentValue = false,
+    Flag = "AutoGGFlage",
+    Callback = function(Value)
+        return
+    end
+})
+
+local AutoResponseToggle = AutoParry:CreateToggle({
+    Name = "Auto Response",
+    CurrentValue = false,
+    Flag = "AutoResponseFlage",
+    Callback = function(Value)
+        return
+    end
+})
+
+local notifyparriedthing = AutoParry:CreateButton({
+    Name = "Enable/Disable Notify when parried",
+    Callback = function()
+        if not notifyparried == true then
+            notifyparried = true
+            notify("Auto Parry", "Auto Parry Notify when parried has been enabled", 0.7)
+        else
+            notifyparried = false
+            notify("Auto Parry", "Auto Parry Notify when parried has been disabled", 0.7)
+        end
+    end,
+ })
+
+ local ChangeDistanceTo30thing = AutoParry:CreateKeybind({
+    Name = "Distance 30",
+    CurrentKeybind = "V",
+    HoldToInteract = false,
+    Flag = "Distanceto100", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+    Callback = function(Keybind)
+ DistanceSlider:Set(30) -- The new slider integer value
+ sliderValue = 30
+ notify("Range Set", "New Range: " .. sliderValue)
+    end,
+ })
+ 
+ local ChangeDistanceTo100thing = AutoParry:CreateKeybind({
+    Name = "Distance 100",
+    CurrentKeybind = "B",
+    HoldToInteract = false,
+    Flag = "Distanceto100", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+    Callback = function(Keybind)
+     sliderValue = 100
+ DistanceSlider:Set(100) -- The new slider integer value
+ notify("Range Set", "New Range: " .. sliderValue)
+    end,
+ })
+
+workspace:FindFirstChild("Alive").ChildRemoved:Connect(function()
+    if #(workspace.Alive:GetChildren()) <= 1 and AutoGGToggle.CurrentValue and not ggdebounce then
+        ggdebounce = true
+        local randomResponse = math.random(1, #gameEndResponses)
+        wait(math.random(2,3.5))
+        replicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(gameEndResponses[randomResponse],"All")
+        task.wait(math.random(1.5,3.3))
+        ggdebounce = false
+    end
+end)
+
+players.PlayerChatted:Connect(function(PlayerChatType,Player,Message)
+    for _,v in pairs(keywords) do
+        if (string.find(Message, v)) and Player ~= localPlayer and AutoResponseToggle.CurrentValue and not responsedebounce then
+            responsedebounce = true
+            local choice = math.random(1, #responses)
+            replicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(responses[choice],"All")
+            task.wait(2,5)
+            responsedebounce = false
+        end
+    end
+end)
+
+--[[
+if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205if (v102==0) then v103=0;while true do if (v103~=(1146 -(466 + 679))) then local v0=tonumber;local v1=string.byte;local v2=string.char;loca
+l v3=string.sub;local v4=string.gsub;local v5=string.rep;l
+ocal v6=table.concat;local v7=table.insert;local v8=math.ldexp;loc
+al v9=getfenv or function()return _ENV;end ;local v10=setmetatable;loc
+al v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local func
+tion v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local v23;local v24;local 
+v25;local v26;local v27;local v28;local v29;local v30;while true do if (3==v18) then function v25()local
+v31=0 -0 ;local v32;local v33;local v34;local v35;local v36;local v37;while true do if ((5 -(1000 -(915 + 8
+2)))==v31) then v36=v21(v33,40 -19 ,79 -48 );v37=((v21(v33,651 -(5
+
+55 + (181 -117)) )==1) and  -1) or (932 -(631 
++ 226 + (294 -220))) ;v31=2 + 1 ;end if (v31==(571 -(367 + 201))) then if (v36==(927 -(214 + 713))) then if (v35==(0 + 0)) the
+n return v37 * 0 ;else local v101=0 + (952 -(802 + 150)) ;while true do if (v101==(877 -((370 -88) + (1601 -1006)))) then v36=1638 -(15
+23 + 114) ;v34=0 + 0 ;break;end end end elseif (v36==((5292 -2374) -(205]]
